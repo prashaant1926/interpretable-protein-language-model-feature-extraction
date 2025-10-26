@@ -1,0 +1,11 @@
+[
+  {
+    "id": "1",
+    "hypothesis": "Feature vectors extracted from protein language models can be systematically mapped to interpretable biological properties with accuracy comparable to specialized prediction tools."
+  },
+  {
+    "id": "example-1",
+    "hypothesis": "This is an example hypothesis that demonstrates the expected format.",
+    "_isExample": true
+  }
+]
