@@ -1,8 +1,6 @@
-# Research Concept: Interpretable Feature Extraction from Protein Language Models
-
 ## Problem Statement new edit&#x20;
 
-**Core Research Question**: How can we systematically extract, validate, and interpret biologically meaningful features from the learned representations of protein language models at scale, and what fundamental principles govern the relationship between model architecture and biological interpretability?
+**Core Research Question**: How can we systematically extract, validate, and interpret biologically meaningful features from the learned representations of protein language models at scale, and what fundamental principles govern the relationship between model architecture and biological interpretability?&#x20;
 
 ## Knowledge Gap and Research Motivation
 
